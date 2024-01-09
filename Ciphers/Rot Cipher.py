@@ -21,6 +21,8 @@ def rot(st, key):
             out += chr(odr[k] + 97)
     return out
 
+#a = 'abcdef'
+#b = 3
 a = input('Enter a string: ')
 b = int(input('Enter Key: '))
 c = rot(a, b)

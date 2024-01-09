@@ -26,6 +26,8 @@ def rot_ky(st, key):
             out += chr(odr[k] + 97)
     return out
 
+#a = 'abcdef'
+#b = 5
 a = input('Enter a string: ')
 b = input('Enter Key: ')
 c = rot_ky(a, b)

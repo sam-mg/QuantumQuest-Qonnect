@@ -21,9 +21,9 @@ def aff(st, keya, keyb):
             out += chr(odr[k] + 97)
     return out
 
-a = 'abcDEF ghi'
-b, c = 1, 2
-#a = input('Enter a string: ')
-#b, c = map(int,input('Enter Key: ').split()))
+#a = 'abcDEF ghi'
+#b, c = 1, 2
+a = input('Enter a string: ')
+b, c = map(int,input('Enter Key: ').split())
 d = aff(a, b, c)
 print(d)
