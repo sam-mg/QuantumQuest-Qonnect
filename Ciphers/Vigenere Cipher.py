@@ -12,7 +12,7 @@ def vigenere_cipher(msg, ky, opt='Encrypt'):
     result = ''
 
     # Key Position
-    k = 0
+    key_position = 0
     
     # Iterate through each character in the message
     for char in msg:
@@ -22,9 +22,9 @@ def vigenere_cipher(msg, ky, opt='Encrypt'):
             # Convert ASCII to integer
             # Encrypt or decrypt the character
             # Append the encrypted or decrypted character to the result
-            result += chr(((ord(char) - 97 + ((1 if opt == 'Encrypt' else -1) * (ord(new_ky[kp % len(new_ky)]) - 48))) % 26) + 97)
+            result += chr(((ord(char) - 97 + ((1 if opt == 'Encrypt' else -1) * (ord(new_ky[key_position % len(new_ky)]) - 48))) % 26) + 97)
             # Increment the key position
-            k += 1  
+            key_position += 1  
         else:
             # Retain non-alphabetic characters as is
             result += char  
