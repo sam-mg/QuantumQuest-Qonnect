@@ -1,5 +1,5 @@
 Let's delve into level 4 now.  
-Just like before, navigate to the challenge directory, then execute the embryogdb_level4 file. Next, utilize the 'run' command to execute the program.  
+Just like before, navigate to the `challenge` directory, then execute the `embryogdb_level4` file. Next, utilize the `run` command to execute the program.  
 
 Now, we can observe all the instructions and challenges.  
 
