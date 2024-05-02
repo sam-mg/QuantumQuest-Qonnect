@@ -3,11 +3,11 @@
 Welcome to **pwn.college** repository! Here, you'll find a collection of challenges sourced from the [pwn.college](https://pwn.college), along with detailed write-ups showcasing solutions and insights.
 
 - **About**
-  - *pwn.college* is a website offering a variety of challenges and dojos covering different topics related to security, exploitation, and more. 
+  - *[pwn.college](https://pwn.college)* is a website offering a variety of challenges and dojos covering different topics related to security, exploitation, and more. 
   - This repository serves as a hub for challenges extracted from the website, accompanied by comprehensive write-ups detailing solution approaches and insights.
 
 - **Challenges**
-  - Explore a diverse range of challenges sourced from the pwn.college website. 
+  - Explore a diverse range of challenges sourced from the [pwn.college](https://pwn.college). 
   - Each challenge provides an opportunity to hone your skills in various areas of security and exploitation.
 
 - **Write-ups**
@@ -22,12 +22,9 @@ Welcome to **pwn.college** repository! Here, you'll find a collection of challen
 
   2. **Explore Challenges:** Browse through the repository to discover a wide range of challenges sourced from pwn.college. Choose a challenge that interests you and start exploring!
 
-  3. **Try the Challenges:** Visit the pwn.college website to attempt the challenges on your own. If you encounter difficulties or wish to explore alternative solutions, refer to the accompanying write-ups for insights and assistance.
+  3. **Try the Challenges:** Visit the [pwn.college](https://pwn.college) to attempt the challenges on your own. If you encounter difficulties or wish to explore alternative solutions, refer to the accompanying write-ups for insights and assistance.
 
   4. **Contribute:** Enjoyed a challenge or discovered a new one? Consider contributing by adding new challenges, improving existing ones, or sharing your own write-ups. Fork the repository, make your changes, and submit a pull request!
-
-- **Community**
-  - Join our community of security enthusiasts on Discord (link to your Discord server) to connect with like-minded individuals, discuss challenges, share tips and resources, and collaborate on projects.
 
 - **Disclaimer**
   - *pwn.college* challenges and write-ups are intended for educational and recreational purposes only. Respect the privacy and security of others, and always adhere to ethical guidelines and laws.
