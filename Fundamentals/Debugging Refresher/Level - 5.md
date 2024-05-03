@@ -6,7 +6,7 @@ We write code in order to express an idea which can be reproduced and refined.
 We can think of our analysis as a program which injests the target to be analyzed as data.  
 As the saying goes, code is data and data is code.
 
-While using gdb interactively as we've done with the past levels is incredibly powerful, another powerful tool is gdb scripting.  
+While using gdb interactively as we have done with the past levels is incredibly powerful, another powerful tool is gdb scripting.  
 By scripting gdb, you can very quickly create a custom-tailored program analysis tool.  
 If you know how to interact with gdb, you already know how to write a gdb script--the syntax is exactly the same.  
 You can write your commands to some file, for example `x.gdb`, and then launch gdb using the flag `-x <PATH_TO_SCRIPT>`.  
@@ -28,7 +28,7 @@ Consider the following gdb script:
 
 In this case, whenever we hit the instruction at `main+42`, we will output a particular local variable and then continue execution.
 
-Now consider a similar, but slightly more advanced script using some commands you haven't yet seen:
+Now consider a similar, but slightly more advanced script using some commands you have not seen yet:
   start
   break *main+42
   commands
