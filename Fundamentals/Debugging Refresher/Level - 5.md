@@ -53,8 +53,11 @@ display/6gx $rsp
 continue
 ```
 
+To run this `.gdb` extension file, use this command: `gdb ./<executable_file> -x <.gdb_file>`  
+
 The above script starts the program, sets the breakpoint, and displays the values of the stack.  
-Using this information, we can copy the respective value, continue, and paste it into the program.  
+Using this information, we can copy the respective value, continue, and paste it into the program. 
+
 After repeating this process a few times, you will obtain the flag.  
 <!-- Flag: ~pwn.college{wrYITQuz-p33ii1_1asyBMnJDIt.0FO0IDL4UDOzQzW}~ -->
 Let's proceed to the next level.  
