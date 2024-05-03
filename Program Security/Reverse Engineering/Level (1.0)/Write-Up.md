@@ -15,5 +15,5 @@ I typically utilize tools such as IDA or Ghidra.
 Here, the expected text is `pxffg`.  
 
 Entering this text yields the flag.  
-
+<!-- Flag: ~pwn.college{4IB7W1DNaBNHILvJIY8oehGKHCo.0VM1IDL4UDOzQzW}~ -->
 We can now proceed to the next level.
