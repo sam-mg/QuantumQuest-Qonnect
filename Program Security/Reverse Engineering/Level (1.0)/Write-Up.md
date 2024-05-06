@@ -10,7 +10,7 @@ Use `python3 -m http.server`.
 Once the file is accessible locally, reverse engineering becomes straightforward.  
 I typically utilize tools such as IDA or Ghidra.  
 
-![Untitled](Level%20(1.0)/ScreenShots/IDA_View.jpg)
+![Untitled](ScreenShots/IDA_View.jpg)
 
 Here, the expected text is `pxffg`.  
 
