@@ -4,7 +4,7 @@ As usual, we can retrieve the file using a Python server.
 
 Then, we use IDA to reverse engineer it.  
 
-![untitled](Level%20(1.1)/ScreenShots/IDA_View.jpg)
+![untitled](ScreenShots/IDA_View.jpg)
 
 We can see that the required text is `sthku`.  
 Once you enter that, you can obtain the flag.  
