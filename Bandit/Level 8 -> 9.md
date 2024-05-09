@@ -36,7 +36,7 @@ Let's embark on this challenge with two distinct strategies:
     ```bash
     cat data.txt | tr -s ' ' '\n' | sort | uniq -u | sort -nr
     ```
-    <p align="center">(or)</p>
+    <p align="center">(or)</p> 
 
     ```bash
     sort data.txt | uniq -u | sort -r
