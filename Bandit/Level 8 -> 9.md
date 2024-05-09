@@ -34,12 +34,12 @@ Let's embark on this challenge with two distinct strategies:
     <p align="center">(or)</p>
 
     ```bash
-    cat data.txt | tr -s ' ' '\n' | sort | uniq -c | sort -nr
+    cat data.txt | tr -s ' ' '\n' | sort | uniq -u | sort -nr
     ```
     <p align="center">(or)</p>
 
     ```bash
-    sort data.txt | uniq -c | sort -r
+    sort data.txt | uniq -u | sort -r
     ```
     These commands, though similar, draw inspiration from diverse sources.
 
