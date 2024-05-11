@@ -23,7 +23,7 @@ Execution of these commands yields the password for the subsequent level.
 
 Upon obtaining it, we exit the current SSH session and establish a connection to the SSH of the next level using:
 ```bash
-Command: `ssh -p 2220 bandit210@bandit.labs.overthewire.org`
+Command: `ssh -p 2220 bandit21@bandit.labs.overthewire.org`
 #Password: Retrieved by submitting the password of the previous level
 ```
 <!-- Password: `NvEJF7oVjkddltPSrdKEFOllh9V1IBcq` -->

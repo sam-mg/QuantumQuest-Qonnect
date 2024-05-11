@@ -43,7 +43,7 @@ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 ```
 With the password in hand, transition to the next level's SSH:
 ```bash
-Command: `ssh -p 2220 bandit220@bandit.labs.overthewire.org`
+Command: `ssh -p 2220 bandit22@bandit.labs.overthewire.org`
 #Password: Substitute the retrieved password from the `/tmp/` directory.
 ```
 <!-- Password: `WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff` -->
