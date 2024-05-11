@@ -1,6 +1,6 @@
 Let's delve into the intricacies of levels 19 to 20 of our challenge.
 
-![untitled](ScreenShots/Level%2018%20->%2019.jpg)
+![untitled](ScreenShots/Level%2019%20->%2020.jpg)
 
 This segment presents a unique task: utilizing a setuid binary to obtain the password for the subsequent level.
 
