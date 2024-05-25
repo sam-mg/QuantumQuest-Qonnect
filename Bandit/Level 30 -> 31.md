@@ -11,9 +11,9 @@ While this step is slightly more complex than the previous one, it is manageable
 ---
 First, we need to create a directory in the `/tmp/` folder and clone the repository using the following commands:
 ```bash
-mkdir /tmp/bandit28/
-cd /tmp/bandit28/
-git clone ssh://bandit29-git@localhost:2220/home/bandit29-git/repo
+mkdir /tmp/bandit30/
+cd /tmp/bandit30/
+git clone ssh://bandit30-git@localhost:2220/home/bandit30-git/repo
 ```
 Although we can read the README file, we won't be able to access the content because it has been tampered with.  
 Let's now look at the available versions of the file using:
