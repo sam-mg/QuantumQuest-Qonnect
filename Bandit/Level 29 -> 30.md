@@ -2,7 +2,8 @@ Let's proceed to the next challenge, moving from level 29 to level 30.
 
 ![untitled](ScreenShots/Level%2029%20->%2030.jpg)
 
-To advance, we need to retrieve the password stored in the provided repository. This step is slightly more complex than the previous one, but with a systematic approach, it is manageable.
+To advance, we need to retrieve the password stored in the provided repository.  
+This step is slightly more complex than the previous one, but with a systematic approach, it is manageable.
 
 ---
 **What is `git branch`?**
@@ -15,8 +16,8 @@ To advance, we need to retrieve the password stored in the provided repository. 
 ---
 First, we need to create a directory in the `/tmp/` folder and clone the repository using the following commands:
 ```bash
-mkdir /tmp/bandit28/
-cd /tmp/bandit28/
+mkdir /tmp/bandit29/
+cd /tmp/bandit29/
 git clone ssh://bandit29-git@localhost:2220/home/bandit29-git/repo
 ```
 Although we can read the README file, we won't be able to access the entire content immediately.  
