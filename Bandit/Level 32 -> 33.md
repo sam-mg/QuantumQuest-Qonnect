@@ -1,6 +1,6 @@
 Let's move forward to the next level!
 
-![untitled](ScreenShots/Level%2031%20->%2032.jpg)
+![untitled](ScreenShots/Level%2032%20->%2033.jpg)
 
 There is something we need to escape. Let's find out what it is.
 
