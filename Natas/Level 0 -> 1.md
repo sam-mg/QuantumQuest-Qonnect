@@ -1,14 +1,14 @@
-Lets now look at the next level usng the creds from the previous level.
+Let's delve into the next level using the credentials obtained from the previous stage.
 
 ![untitled](ScreenShots/Level%200%20->%201.jpg)
 
-In this level, they have disabled right clicking, but they dont know we already found out the shortcuts in the previous level itself.
+In this level, right-click functionality has been disabled. However, they seem unaware that we've already discovered the necessary shortcuts in the previous level.
 
-lets do like we did the previous level, but with the shortcuts.
-I am sorry i wont be able to show the code from now on.
-We can see the password under the source section being commented.
+Let's proceed as we did before, but this time we'll rely on the shortcuts.
+Unfortunately, I won't be able to display the code from this point onwards.  
+However, we can observe that the password is commented within the source section.
 
-Let's now log into the next level using the following credentials:
+Let's use the following credentials to log into the next level:
 ```
 URL: http://natas2.natas.labs.overthewire.org
 Username: natas2
