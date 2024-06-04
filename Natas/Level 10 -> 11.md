@@ -89,4 +89,4 @@ URL: http://natas12.natas.labs.overthewire.org
 Username: natas12
 Password: Password obtained via changing cookie value
 ```
-<!-- YWqo0pjpcXzSIl5NMAVxg12QxeC1w9QG -->
+<!-- Password: `YWqo0pjpcXzSIl5NMAVxg12QxeC1w9QG` -->
