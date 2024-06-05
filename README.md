@@ -2,12 +2,6 @@
 
 Welcome to **OverTheWire** repository! Here, you'll find a collection of challenges sourced from the [OverTheWire](https://overthewire.org/wargames/), covering various topics such as networking, web, cryptography, and more.  
 Alongside these challenges, you'll also find my write-ups detailing how I approached and solved them.
-
-- **Challenges**
-  - Explore a diverse range of challenges sourced from the [OverTheWire](https://overthewire.org/wargames/), covering topics like networking, web exploitation, and more.
-  
-- **Write-ups**
-  - Dive into my detailed write-ups for each challenge, where I explain my approach, solutions, and insights gained during the solving process.
   
 - **Getting Started**
   1. **Clone the Repository:** Start by cloning this repository to your local machine using Git:
@@ -21,9 +15,6 @@ Alongside these challenges, you'll also find my write-ups detailing how I approa
 
 - **Contribute**
   - Enjoyed a challenge or have your own write-ups to share? Feel free to contribute by adding new challenges or improving existing ones. Fork the repository, make your changes, and submit a pull request!
-
-- **Community**
-  - Join the OverTheWire community and discuss challenges, share tips, and collaborate with fellow enthusiasts. Your insights and contributions are valuable to our community!
 
 - **Disclaimer**
   - OverTheWire is an educational platform intended for learning and experimentation. Please use the knowledge gained from this repository responsibly and refrain from engaging in unethical or malicious activities.
