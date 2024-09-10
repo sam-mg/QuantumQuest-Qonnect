@@ -43,8 +43,6 @@ Before jumping into the machine interaction, let's answer some basic questions t
 11. **What is the command used to download the file we found on the FTP server?**  
     - **Answer:** `get`
 
----
-
 ## Interacting with the Machine
 
 Now, let's interact with the machine. We can connect to it using the following command:
