@@ -41,10 +41,10 @@ frida -U -f com.example.anchored -l root_bypass.js -l ssl_pinning_universal_bypa
 
 Once done, we can monitor the traffic using [HTTP Toolkit](https://httptoolkit.com). When a request is made from the app, we get the following message added to the request:
 ```
-msg=UnTrUst3d_C3rT1f1C4T3s&mail=try%40gmail.com&
+msg=<some_string>&mail=try%40gmail.com&
 ```
 
 Let's format it as a flag:
 ```
-HTB{UnTrUst3d_C3rT1f1C4T3s}
+HTB{<some_string>}
 ```
